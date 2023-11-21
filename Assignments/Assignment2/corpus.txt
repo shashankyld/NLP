@@ -1,0 +1,4 @@
+This document is a sample document.
+In this document, we have repeated words.
+Repeated words can help us understand word frequencies.
+Can you identify the repeated words in this document?
